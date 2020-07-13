@@ -15,6 +15,8 @@ function cost() {
     var cheepCheepTotal = cheepCheep * cheepCheepCost;
     var totalCost = goombaTotal + bobombTotal + cheepCheepTotal;
     var totalText = document.createElement("p");
-    totalText.textContent = totalCost;
+    totalText.textContent = totalCost.value;
     totalLine.appendChild(totalText);
+    console.log(totalCost);
+    return totalText;
 }
