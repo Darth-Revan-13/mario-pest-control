@@ -1,28 +1,28 @@
 @media only screen and (max-width: 768px){
     * {
-        background: url("MarioBros.png") fixed center;
+        background: url("mariobackground.png") fixed center;
     }
     #title {
-        color: yellow;
+        color: crimson;
         text-align: center;
         width: 100%;
     }
     #paragraph {
         width: 100%;
-        color: yellow;
+        color: crimson;
     }
     #pricing {
-        color: black;
+        color: crimson;
         width: 100%;
     }
     input {
-        color: yellow;
+        color: crimson;
     }
     button {
-        color: yellow;
+        color: crimson;
     }
     footer {
-        color: yellow;
+        color: crimson;
         text-align: center;
         position: absolute;
         bottom: 0px;
@@ -31,29 +31,29 @@
 }
 @media only screen and (min-width: 768px){
     * {
-        background: url("MarioBros.png") fixed center;
+        background: url("mariobackground.png") fixed center;
     }
     #title {
-        color: yellow;
+        color: crimson;
         text-align: center;
         width: 100%;
     }
     #paragraph {
         width: 100%;
-        color: yellow;
+        color: crimson;
     }
     #pricing {
-        color: black;
+        color: crimson;
         width: 100%;
     }
     input {
-        color: yellow;
+        color: crimson;
     }
     button {
-        color: yellow;
+        color: crimson;
     }
     footer {
-        color: yellow;
+        color: crimson;
         text-align: center;
         position: absolute;
         bottom: 0px;
